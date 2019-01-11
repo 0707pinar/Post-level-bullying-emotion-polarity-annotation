@@ -2,7 +2,7 @@
 Annotations of Instagram Posts with Emotion, Polarity and Bullying Labels. This annotation has been used as a part of our research to be presented in [ACM SAC 2019](https://www.sigapp.org/sac/sac2019/) (the 34th ACM/SIGAPP Symposium On Applied Computing).
 
 # Dataset:
-A portion of Instagram dataset[1,2] was used. This dataset needs to be requested from one of the authors[1,2] due to data sharing policy. We randomly selected 10 media sessions (i.e., 5 bullying sessions and 5 no bullying sessions) from the Instagram dataset. A media session was the thread of comments (i.e., Instagram posts) following a picture. From 10 Instagram sessions, 1000 Instagram comments were annotated with emotion, polarity and bullying labels upon removing the "empty" labels in the given "clmn" fields.
+A portion of Instagram dataset[1,2] was used. This dataset needs to be requested from one of the authors[1,2] due to the licence agreement. We randomly selected 10 media sessions (i.e., 5 bullying sessions and 5 no bullying sessions) from the Instagram dataset. A media session was the thread of comments (i.e., Instagram posts) following a picture. From 10 Instagram sessions, 1000 Instagram comments were annotated with emotion, polarity and bullying labels upon removing the "empty" labels in the given "clmn" fields.
 
 # Annotations:
 The annotations we provided here were post level, meaning each Instagram post was annotated with the three labels. Our annotation txt file contains the following columns:
